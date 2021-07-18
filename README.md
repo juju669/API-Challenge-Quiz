@@ -1,6 +1,6 @@
 # API-Challenge-Quiz
 
-PURPOSE:
+# PURPOSE
 
 AS A coding boot camp student
 
@@ -8,7 +8,7 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 
 SO THAT I can gauge my progress compared to my peers
 
-IMAGES:
+# IMAGES
 
 ![shot3](https://user-images.githubusercontent.com/58565920/126082791-4d5a4900-f1cd-473d-86b2-005acfcf127a.png)
 
@@ -17,5 +17,12 @@ IMAGES:
 ![shot](https://user-images.githubusercontent.com/58565920/126082800-9e9a15cc-f112-4422-86ce-92abe69f7c9a.png)
 
 
+# INSTALLATION
 
-https://juju669.github.io/API-Challenge-Quiz/
+[You can pull the link to my portfolio from here:] 
+
+[You can access my quiz here :] https://juju669.github.io/API-Challenge-Quiz/
+
+
+# MADE BY 
+Julian C. Wilson
