@@ -19,7 +19,7 @@ SO THAT I can gauge my progress compared to my peers
 
 # INSTALLATION
 
-[You can pull the link to my portfolio from here:]  https://github.com/juju669/API-Challenge-Quiz.git
+[You can pull the link to my quiz from here:]  https://github.com/juju669/API-Challenge-Quiz.git
 
 [You can access my quiz here :] https://juju669.github.io/API-Challenge-Quiz/
 
